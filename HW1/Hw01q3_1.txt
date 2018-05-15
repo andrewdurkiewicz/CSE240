@@ -1,0 +1,13 @@
+Compile, debug (find and fix any syntax errors), and execute the program and fix the semantic errors.
+Discuss and explain differences in compiling, editing, debugging, and executing that you observed in
+using GCC and Visual Studio. You must discuss and explain differences in each of the 4 tasks underlined
+above to receive all 5 points.
+
+
+I personally found compiling through gcc to be much easier than using visual. This is primarily because the debugging process wouldn't find any errors with the linux client. Note that this was still through microsof windows visual(but I am limited to the linux version). 
+So: 
+For editing: I had to convert the file into a cpp file to get it to run properly.
+For executing: The main difference was that I had to make sure that my client was in the working directory and that my cpp file was actually within the source file. 
+For debugging, The process found a ton of warnings, and made it rather difficult to actually process. Rather than pointing where the file failed, It just constantly brought up warnings. This is because I had nothing syntactically incorrect. But the compiler wasn't used to my style. 
+
+Compiling: The compiler took much longer but worked with a single button click. I prefer the gcc compiler.
