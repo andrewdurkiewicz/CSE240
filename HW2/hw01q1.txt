@@ -1,0 +1,10 @@
+1:CSE240 is not a valid sequence.
+2:aZ1 is not a valid sequence.
+3:VWX97 is a valid sequence
+4:Zbad99 is a valid sequence
+5:eY55 is a valid sequence
+6:dYaZeWkZ is not a valid sequence.
+7:XYZcde579 is a valid sequence
+8:XYZabc3 is not a valid sequence.
+9:abcXYZ123 is a valid sequence
+10:edc135790V is not a valid sequence.

@@ -1,0 +1,6 @@
+Hi,
+Due to the way that I did this code, it must be run in a linux environment.
+I wanted to use unicode characters, but this is OS dependent. It will not run
+in a windows environment. Use gcc.
+Thank you,
+Andrew Durkiewicz
